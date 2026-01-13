@@ -1,0 +1,4 @@
+AP mode
+
+SSID : SmartClock
+PASSWORD : 12345678
